@@ -1,0 +1,29 @@
+{
+  "name": "resheart-jamstack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "resheart-jamstack",
+  "author": "Riccardo Corti",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "dotenv": "^8.6.0",
+    "gatsby": "^3.9.1",
+    "gatsby-plugin-sass": "^4.9.0",
+    "js-base64": "^3.6.1",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.35.2"
+  }
+}
